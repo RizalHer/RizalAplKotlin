@@ -1,2 +1,0 @@
-# RizalAplKotlin
-Aplikasi Kotlin Sederhana
